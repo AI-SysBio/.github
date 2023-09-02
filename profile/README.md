@@ -1,6 +1,8 @@
 
 # Stochastic Modeling of the Immune System, A Multiscale Challenge.
-We developping new bioinformatics pipeline for systems biology at all scales. Then, we make stochastic models combining all these scales together.
+We developping new bioinformatics pipeline for systems biology at all scales.
+
+Then, we make stochastic models combining all these scales together.
 
 * 🔭  Our current research interests in Healthcare cover:
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
