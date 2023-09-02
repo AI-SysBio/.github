@@ -2,6 +2,10 @@
 # Stochastic Modeling of the Immune System, A Multiscale Challenge.
 We are interrested in developping new bioinformatics pipeline for systems biology at all scales. Then, we make stochastic models combining all these scales together.
 
+<p align="center">
+  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/Multiscale.png" width=500>
+</p>
+
 * 🔭  Our current research interests in Healthcare cover:
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
@@ -10,3 +14,7 @@ We are interrested in developping new bioinformatics pipeline for systems biolog
   * [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR) Non-Markovian stochastic systems
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center) Multi-scale hybrid models of the immune system
   * Quantum Machine Learning for Healthcare applications
+ 
+<p align="center">
+  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/bioinfo.png" width=500>
+</p>
