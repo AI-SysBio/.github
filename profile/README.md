@@ -13,7 +13,7 @@ Then, we make stochastic models combining all these scales together.
   * Quantum Machine Learning for Healthcare applications
 
 <p align="left">
-  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/Multiscale.png" width=600>
+  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/Multiscale.png" width=550>
 </p>
 
 <!---
