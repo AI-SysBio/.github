@@ -1,12 +1,10 @@
-## Hi there 👋
+We are interrested in developping new bioinformatics pipeline for systems biology at all scales. Then, we make stochastic models combining all these scales together.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 🔭  Our current research interests in Healthcare cover:
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/Ab-binding) Antigen-Antibody binding
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity) Single-cell RNA-seq analysis
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR) Non-Markovian stochastic systems
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center) Multi-scale hybrid models of the immune system
+  * Quantum Machine Learning for Healthcare applications
