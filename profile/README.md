@@ -1,6 +1,6 @@
 
 ## Stochastic Modeling of the Immune System, A Multiscale Challenge.
-[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) &nbsp;
+[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) \
 
 We developping new bioinformatics pipeline for systems biology at all scales. \
 Then, we make stochastic models combining all these scales together.
