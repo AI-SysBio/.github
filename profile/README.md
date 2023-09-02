@@ -14,7 +14,9 @@ We are interrested in developping new bioinformatics pipeline for systems biolog
   * [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR) Non-Markovian stochastic systems
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center) Multi-scale hybrid models of the immune system
   * Quantum Machine Learning for Healthcare applications
- 
- [//]: # <p align="left">
- [//]: #  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/bioinfo.png" width=700>
- [//]: # </p>
+
+<!---
+<p align="left">
+  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/bioinfo.png" width=700>
+</p>
+-->
