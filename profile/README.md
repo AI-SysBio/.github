@@ -12,7 +12,7 @@ We are interrested in developping new bioinformatics pipeline for systems biolog
   * Quantum Machine Learning for Healthcare applications
 
 <p align="left">
-  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/Multiscale.png" width=700>
+  <img src="https://github.com/AI-SysBio/.github/blob/main/profile/Multiscale.png" width=600>
 </p>
 
 <!---
