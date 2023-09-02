@@ -1,8 +1,8 @@
 
 ## Stochastic Modeling of the Immune System, A Multiscale Challenge.
-[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) \
+[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/research/) \
 
-We developping new bioinformatics pipeline for systems biology at all scales. \
+We develop new bioinformatics pipeline for systems biology at all scales. \
 Then, we make stochastic models combining all these scales together.
 
 * 🔭  Our current research interests in Healthcare cover:
