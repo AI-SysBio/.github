@@ -6,7 +6,7 @@ We develop new bioinformatics pipeline for systems biology at all scales. \
 Then, we make stochastic models combining all these scales together.
 
 * 🔭  Our current research interests in Healthcare cover:
-  * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug Target discovery
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Ab-binding) Antigen-Antibody binding
   * [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity) Single-cell RNA-seq analysis
