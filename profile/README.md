@@ -9,10 +9,11 @@ Then, we make stochastic models combining all these scales together.
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug Target discovery
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Ab-binding) Antigen-Antibody binding
-  * [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity) Single-cell RNA-seq analysis
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity) Antibody repertoire analysis
   * [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR) Non-Markovian stochastic systems
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center) Multi-scale hybrid models of the immune system
   * [[*repo*]](https://github.com/AI-SysBio/Raman-Imaging-Processing) Raman Microscopy for Disease diagnosis
+  * Single-cell RNA-seq analysis
   * Quantum Machine Learning for Healthcare applications
 
 <p align="left">
